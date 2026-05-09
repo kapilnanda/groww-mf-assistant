@@ -1,0 +1,45 @@
+{
+    "scheme_code": "118955",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "last_updated": "30-Apr-2026",
+    "sections": {
+        "Core Details": {
+            "Fund Name": "HDFC Flexi Cap Direct Plan Growth",
+            "Fund House": "HDFC Mutual Fund",
+            "Fund Manager": "Prashant Jain",
+            "Category": "Equity - Flexi Cap",
+            "Benchmark": "NIFTY 500 Total Return Index",
+            "AUM (Assets Under Management)": "₹91334.9081 Crores",
+            "Latest NAV": "₹2137 (As of 30-Apr-2026)"
+        },
+        "Fees and Constraints": {
+            "Expense Ratio": "0.67%",
+            "Exit Load": "Exit load of 1% if redeemed within 1 year\r ",
+            "Lock-in Period": {
+                "years": null,
+                "months": null,
+                "days": null
+            },
+            "Minimum SIP Investment": "₹100",
+            "Minimum Lumpsum Investment": "₹100"
+        },
+        "Return Statistics": {
+            "1Y Return": "1.9%",
+            "3Y Return": "19.55%",
+            "5Y Return": "20.32%",
+            "All Time Return": "14.13%"
+        },
+        "Top Holdings": {
+            "ICICI Bank Ltd.": "8.82%",
+            "HDFC Bank Ltd.": "7.04%",
+            "Axis Bank Ltd.": "6.87%",
+            "State Bank of India": "4.75%",
+            "SBI Life Insurance Company Ltd.": "3.89%",
+            "Kotak Mahindra Bank Ltd.": "3.52%",
+            "Bharti Airtel Ltd.": "3.19%",
+            "HCL Technologies Ltd.": "3.12%",
+            "Larsen & Toubro Ltd.": "3.09%",
+            "Power Grid Corporation Of India Ltd.": "2.95%"
+        }
+    }
+}

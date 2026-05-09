@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-groq
+chromadb
+beautifulsoup4
+requests
+pytest
+pydantic

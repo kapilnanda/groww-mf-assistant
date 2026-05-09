@@ -1,0 +1,45 @@
+{
+    "scheme_code": "118989",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "last_updated": "30-Apr-2026",
+    "sections": {
+        "Core Details": {
+            "Fund Name": "HDFC Mid Cap Fund Direct Growth",
+            "Fund House": "HDFC Mutual Fund",
+            "Fund Manager": "Chirag Setalvad",
+            "Category": "Equity - Mid Cap",
+            "Benchmark": "NIFTY Midcap 150 Total Return Index",
+            "AUM (Assets Under Management)": "₹85357.9246 Crores",
+            "Latest NAV": "₹217.72 (As of 30-Apr-2026)"
+        },
+        "Fees and Constraints": {
+            "Expense Ratio": "0.73%",
+            "Exit Load": "Exit load of 1% if redeemed within 1 year.",
+            "Lock-in Period": {
+                "years": null,
+                "months": null,
+                "days": null
+            },
+            "Minimum SIP Investment": "₹100",
+            "Minimum Lumpsum Investment": "₹100"
+        },
+        "Return Statistics": {
+            "1Y Return": "11.39%",
+            "3Y Return": "24.36%",
+            "5Y Return": "22.07%",
+            "All Time Return": "19.3%"
+        },
+        "Top Holdings": {
+            "Max Financial Services Ltd.": "4.5%",
+            "The Federal Bank Ltd.": "3.88%",
+            "AU Small Finance Bank Ltd.": "3.88%",
+            "Indian Bank": "3.65%",
+            "Ipca Laboratories Ltd.": "3.38%",
+            "Balkrishna Industries Ltd.": "3.29%",
+            "Glenmark Pharmaceuticals Ltd.": "3.2%",
+            "Fortis Healthcare Ltd.": "2.93%",
+            "Vishal Mega Mart Ltd.": "2.71%",
+            "Marico Ltd.": "2.59%"
+        }
+    }
+}

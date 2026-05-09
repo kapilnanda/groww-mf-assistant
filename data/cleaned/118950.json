@@ -1,0 +1,45 @@
+{
+    "scheme_code": "118950",
+    "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
+    "last_updated": "30-Apr-2026",
+    "sections": {
+        "Core Details": {
+            "Fund Name": "HDFC Focused Fund Direct Growth",
+            "Fund House": "HDFC Mutual Fund",
+            "Fund Manager": "Vinay Kulkarni",
+            "Category": "Equity - Flexi Cap",
+            "Benchmark": "NIFTY 500 Total Return Index",
+            "AUM (Assets Under Management)": "₹24169.507 Crores",
+            "Latest NAV": "₹254.183 (As of 30-Apr-2026)"
+        },
+        "Fees and Constraints": {
+            "Expense Ratio": "0.68%",
+            "Exit Load": "Exit load of 1% if redeemed within 1 year",
+            "Lock-in Period": {
+                "years": null,
+                "months": null,
+                "days": null
+            },
+            "Minimum SIP Investment": "₹100",
+            "Minimum Lumpsum Investment": "₹100"
+        },
+        "Return Statistics": {
+            "1Y Return": "1.46%",
+            "3Y Return": "19.18%",
+            "5Y Return": "21.68%",
+            "All Time Return": "11.42%"
+        },
+        "Top Holdings": {
+            "ICICI Bank Ltd.": "9.33%",
+            "HDFC Bank Ltd.": "8.63%",
+            "Axis Bank Ltd.": "7.21%",
+            "State Bank of India": "5.72%",
+            "Kotak Mahindra Bank Ltd.": "5.52%",
+            "HCL Technologies Ltd.": "4.47%",
+            "Bharti Airtel Ltd.": "3.77%",
+            "Cipla Ltd.": "3.68%",
+            "Maruti Suzuki India Ltd.": "3.58%",
+            "SBI Life Insurance Company Ltd.": "3.57%"
+        }
+    }
+}

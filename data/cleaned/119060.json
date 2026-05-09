@@ -1,0 +1,45 @@
+{
+    "scheme_code": "119060",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "last_updated": "30-Apr-2026",
+    "sections": {
+        "Core Details": {
+            "Fund Name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
+            "Fund House": "HDFC Mutual Fund",
+            "Fund Manager": "Vinay Kulkarni",
+            "Category": "Equity - ELSS",
+            "Benchmark": "NIFTY 500 Total Return Index",
+            "AUM (Assets Under Management)": "₹14615.1912 Crores",
+            "Latest NAV": "₹1448.241 (As of 30-Apr-2026)"
+        },
+        "Fees and Constraints": {
+            "Expense Ratio": "1.11%",
+            "Exit Load": "Nil",
+            "Lock-in Period": {
+                "years": 3,
+                "months": 0,
+                "days": 0
+            },
+            "Minimum SIP Investment": "₹500",
+            "Minimum Lumpsum Investment": "₹500"
+        },
+        "Return Statistics": {
+            "1Y Return": "-1.52%",
+            "3Y Return": "18.08%",
+            "5Y Return": "18.69%",
+            "All Time Return": "12.03%"
+        },
+        "Top Holdings": {
+            "ICICI Bank Ltd.": "9.08%",
+            "HDFC Bank Ltd.": "8.31%",
+            "Axis Bank Ltd.": "7.04%",
+            "SBI Life Insurance Company Ltd.": "4.88%",
+            "State Bank of India": "4.69%",
+            "Maruti Suzuki India Ltd.": "4.63%",
+            "Bharti Airtel Ltd.": "4.62%",
+            "Kotak Mahindra Bank Ltd.": "4.23%",
+            "HCL Technologies Ltd.": "3.28%",
+            "Reliance Industries Ltd.": "3.06%"
+        }
+    }
+}

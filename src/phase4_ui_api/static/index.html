@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HDFC Mutual Fund Facts Assistant</title>
+    <link rel="stylesheet" href="style.css?v=1.1">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M2 17L12 22L22 17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M2 12L12 17L22 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            Groww<span>Assistance</span>
+        </div>
+        <div class="disclaimer-badge">
+            Facts-only. No investment advice.
+        </div>
+    </header>
+
+    <main id="chat-messages">
+        <!-- Welcome Section -->
+        <div class="welcome-container" id="welcome-screen">
+            <h1>HDFC MF Fact Finder</h1>
+            <p>Get instant, verified factual data for HDFC Mutual Funds. I strictly provide data from Groww and do not offer advice.</p>
+            
+            <div class="example-questions">
+                <button class="example-btn" onclick="sendExample('What is the expense ratio for HDFC Mid Cap?')">
+                    "What is the expense ratio for HDFC Mid Cap?"
+                </button>
+                <button class="example-btn" onclick="sendExample('What is the current AUM of HDFC Flexi Cap?')">
+                    "What is the current AUM of HDFC Flexi Cap?"
+                </button>
+                <button class="example-btn" onclick="sendExample('What are the exit load charges for the Focused fund?')">
+                    "What are the exit load charges for the Focused fund?"
+                </button>
+            </div>
+        </div>
+
+        <!-- Typing Indicator -->
+        <div class="typing-indicator" id="typing-indicator">
+            <span class="dot"></span><span class="dot"></span><span class="dot"></span>
+            Assistant is searching...
+        </div>
+    </main>
+
+    <footer>
+        <div class="input-wrapper">
+            <input type="text" id="user-input" placeholder="Ask about HDFC fund facts (e.g. NAV, AUM, Fees)..." autocomplete="off">
+            <button class="send-btn" id="send-button">
+                <svg width="20" height="20" viewBox="0 0 24 24">
+                    <path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/>
+                </svg>
+            </button>
+        </div>
+    </footer>
+
+    <script src="script.js?v=1.1"></script>
+</body>
+</html>
