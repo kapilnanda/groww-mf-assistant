@@ -1,7 +1,7 @@
 {
     "scheme_code": "119018",
     "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-    "last_updated": "13-May-2026",
+    "last_updated": "14-May-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC Large Cap Fund Direct Growth",
@@ -10,10 +10,10 @@
             "Category": "Equity - Large Cap",
             "Benchmark": "NIFTY 100 Total Return Index",
             "AUM (Assets Under Management)": "₹38121.2733 Crores",
-            "Latest NAV": "₹1161.955 (As of 13-May-2026)"
+            "Latest NAV": "₹1176.095 (As of 14-May-2026)"
         },
         "Fees and Constraints": {
-            "Expense Ratio": "1.09%",
+            "Expense Ratio": "0.99%",
             "Exit Load": "Exit load of 1% if redeemed within 1 year",
             "Lock-in Period": {
                 "years": null,
@@ -24,22 +24,22 @@
             "Minimum Lumpsum Investment": "₹100"
         },
         "Return Statistics": {
-            "1Y Return": "-3.43%",
-            "3Y Return": "11.97%",
-            "5Y Return": "13.32%",
+            "1Y Return": "-2.49%",
+            "3Y Return": "12.41%",
+            "5Y Return": "13.78%",
             "All Time Return": "13.08%"
         },
         "Top Holdings": {
-            "ICICI Bank Ltd.": "9.39%",
-            "HDFC Bank Ltd.": "8%",
-            "Bharti Airtel Ltd.": "5.99%",
-            "Reliance Industries Ltd.": "5.4%",
-            "Kotak Mahindra Bank Ltd.": "5.13%",
-            "Titan Company Ltd.": "4.59%",
-            "Infosys Ltd.": "3.99%",
-            "Torrent Pharmaceuticals Ltd.": "3.79%",
-            "Axis Bank Ltd.": "3.51%",
-            "Bajaj Auto Ltd.": "3.09%"
+            "ICICI Bank Ltd.": "9.15%",
+            "HDFC Bank Ltd.": "7.84%",
+            "Bharti Airtel Ltd.": "5.9%",
+            "Reliance Industries Ltd.": "5.61%",
+            "Kotak Mahindra Bank Ltd.": "5.47%",
+            "Titan Company Ltd.": "4.74%",
+            "Axis Bank Ltd.": "3.56%",
+            "Torrent Pharmaceuticals Ltd.": "3.49%",
+            "Infosys Ltd.": "3.01%",
+            "Bajaj Auto Ltd.": "2.95%"
         }
     }
 }

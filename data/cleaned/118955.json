@@ -1,7 +1,7 @@
 {
     "scheme_code": "118955",
     "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-    "last_updated": "13-May-2026",
+    "last_updated": "14-May-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC Flexi Cap Direct Plan Growth",
@@ -10,10 +10,10 @@
             "Category": "Equity - Flexi Cap",
             "Benchmark": "NIFTY 500 Total Return Index",
             "AUM (Assets Under Management)": "₹100479.2308 Crores",
-            "Latest NAV": "₹2107.962 (As of 13-May-2026)"
+            "Latest NAV": "₹2130.759 (As of 14-May-2026)"
         },
         "Fees and Constraints": {
-            "Expense Ratio": "0.99%",
+            "Expense Ratio": "0.92%",
             "Exit Load": "Exit load of 1% if redeemed within 1 year\r ",
             "Lock-in Period": {
                 "years": null,
@@ -24,22 +24,22 @@
             "Minimum Lumpsum Investment": "₹100"
         },
         "Return Statistics": {
-            "1Y Return": "0.05%",
-            "3Y Return": "18.46%",
-            "5Y Return": "18.86%",
+            "1Y Return": "0.82%",
+            "3Y Return": "18.87%",
+            "5Y Return": "19.33%",
             "All Time Return": "14.13%"
         },
         "Top Holdings": {
-            "ICICI Bank Ltd.": "8.82%",
-            "HDFC Bank Ltd.": "7.04%",
-            "Axis Bank Ltd.": "6.87%",
-            "State Bank of India": "4.75%",
-            "SBI Life Insurance Company Ltd.": "3.89%",
-            "Kotak Mahindra Bank Ltd.": "3.52%",
-            "Bharti Airtel Ltd.": "3.19%",
-            "HCL Technologies Ltd.": "3.12%",
-            "Larsen & Toubro Ltd.": "3.09%",
-            "Power Grid Corporation Of India Ltd.": "2.95%"
+            "ICICI Bank Ltd.": "8.69%",
+            "Axis Bank Ltd.": "6.83%",
+            "HDFC Bank Ltd.": "6.81%",
+            "State Bank of India": "4.74%",
+            "SBI Life Insurance Company Ltd.": "3.79%",
+            "Kotak Mahindra Bank Ltd.": "3.47%",
+            "Larsen & Toubro Ltd.": "3.35%",
+            "Bharti Airtel Ltd.": "3.1%",
+            "Maruti Suzuki India Ltd.": "2.78%",
+            "Power Grid Corporation Of India Ltd.": "2.78%"
         }
     }
 }

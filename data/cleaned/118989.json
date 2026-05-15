@@ -1,7 +1,7 @@
 {
     "scheme_code": "118989",
     "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-    "last_updated": "13-May-2026",
+    "last_updated": "14-May-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC Mid Cap Fund Direct Growth",
@@ -10,10 +10,10 @@
             "Category": "Equity - Mid Cap",
             "Benchmark": "NIFTY Midcap 150 Total Return Index",
             "AUM (Assets Under Management)": "₹94744.7175 Crores",
-            "Latest NAV": "₹216.713 (As of 13-May-2026)"
+            "Latest NAV": "₹218.889 (As of 14-May-2026)"
         },
         "Fees and Constraints": {
-            "Expense Ratio": "0.75%",
+            "Expense Ratio": "0.8%",
             "Exit Load": "Exit load of 1% if redeemed within 1 year.",
             "Lock-in Period": {
                 "years": null,
@@ -24,22 +24,22 @@
             "Minimum Lumpsum Investment": "₹100"
         },
         "Return Statistics": {
-            "1Y Return": "8.35%",
-            "3Y Return": "23.43%",
-            "5Y Return": "21.53%",
+            "1Y Return": "8.04%",
+            "3Y Return": "23.82%",
+            "5Y Return": "22.07%",
             "All Time Return": "19.3%"
         },
         "Top Holdings": {
-            "Max Financial Services Ltd.": "4.5%",
-            "The Federal Bank Ltd.": "3.88%",
-            "AU Small Finance Bank Ltd.": "3.88%",
-            "Indian Bank": "3.65%",
-            "Ipca Laboratories Ltd.": "3.38%",
-            "Balkrishna Industries Ltd.": "3.29%",
-            "Glenmark Pharmaceuticals Ltd.": "3.2%",
-            "Fortis Healthcare Ltd.": "2.93%",
-            "Vishal Mega Mart Ltd.": "2.71%",
-            "Marico Ltd.": "2.59%"
+            "Max Financial Services Ltd.": "4.37%",
+            "AU Small Finance Bank Ltd.": "4.24%",
+            "The Federal Bank Ltd.": "3.87%",
+            "Glenmark Pharmaceuticals Ltd.": "3.41%",
+            "Indian Bank": "3.31%",
+            "Balkrishna Industries Ltd.": "3.25%",
+            "Fortis Healthcare Ltd.": "3.16%",
+            "Vishal Mega Mart Ltd.": "2.92%",
+            "Ipca Laboratories Ltd.": "2.92%",
+            "Cummins India Ltd.": "2.5%"
         }
     }
 }

@@ -1,7 +1,7 @@
 {
     "scheme_code": "118950",
     "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-    "last_updated": "13-May-2026",
+    "last_updated": "14-May-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC Focused Fund Direct Growth",
@@ -10,10 +10,10 @@
             "Category": "Equity - Flexi Cap",
             "Benchmark": "NIFTY 500 Total Return Index",
             "AUM (Assets Under Management)": "₹26182.1506 Crores",
-            "Latest NAV": "₹249.792 (As of 13-May-2026)"
+            "Latest NAV": "₹252.82 (As of 14-May-2026)"
         },
         "Fees and Constraints": {
-            "Expense Ratio": "0.77%",
+            "Expense Ratio": "0.76%",
             "Exit Load": "Exit load of 1% if redeemed within 1 year",
             "Lock-in Period": {
                 "years": null,
@@ -24,22 +24,22 @@
             "Minimum Lumpsum Investment": "₹100"
         },
         "Return Statistics": {
-            "1Y Return": "-1.13%",
-            "3Y Return": "18.09%",
-            "5Y Return": "20.65%",
+            "1Y Return": "-0.24%",
+            "3Y Return": "18.54%",
+            "5Y Return": "21.1%",
             "All Time Return": "11.42%"
         },
         "Top Holdings": {
-            "ICICI Bank Ltd.": "9.33%",
-            "HDFC Bank Ltd.": "8.63%",
-            "Axis Bank Ltd.": "7.21%",
-            "State Bank of India": "5.72%",
-            "Kotak Mahindra Bank Ltd.": "5.52%",
-            "HCL Technologies Ltd.": "4.47%",
-            "Bharti Airtel Ltd.": "3.77%",
-            "Cipla Ltd.": "3.68%",
+            "ICICI Bank Ltd.": "9.02%",
+            "HDFC Bank Ltd.": "8.41%",
+            "Axis Bank Ltd.": "7.27%",
+            "State Bank of India": "5.76%",
+            "Kotak Mahindra Bank Ltd.": "5.53%",
+            "HCL Technologies Ltd.": "3.89%",
+            "Bharti Airtel Ltd.": "3.69%",
             "Maruti Suzuki India Ltd.": "3.58%",
-            "SBI Life Insurance Company Ltd.": "3.57%"
+            "SBI Life Insurance Company Ltd.": "3.58%",
+            "Eternal Ltd.": "3.53%"
         }
     }
 }
