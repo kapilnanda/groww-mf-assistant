@@ -202,7 +202,7 @@
         "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
         "phone": "022 – 66316333",
         "aum": 937047.5946,
-        "launch_date": "1999-12-09T18:30:00.236Z",
+        "launch_date": "1999-12-09T18:30:00.425Z",
         "email": "shareholders.relations@hdfcfund.com",
         "rank": "2",
         "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -253,8 +253,8 @@
         },
         {
             "type": "RANK_WITHIN_CATEGORY",
-            "stat_1y": 64,
-            "stat_3y": 46,
+            "stat_1y": 63,
+            "stat_3y": 45,
             "stat_5y": 20,
             "stat_all": null,
             "title": "Rank Within Category"
@@ -291,10 +291,10 @@
             "cat_return5y": 14.963175625273163,
             "cat_return10y": 13.15689160055596,
             "cat_return_since_launch": null,
-            "rank3m": 102,
+            "rank3m": 103,
             "rank6m": 66,
-            "rank1yr": 64,
-            "rank3yr": 46,
+            "rank1yr": 63,
+            "rank3yr": 45,
             "rank5yr": 20,
             "rank10yr": 12,
             "index_return1y": 1.2084224576,
@@ -1425,6 +1425,36 @@
         }
     ],
     "historic_fund_expense": [
+        {
+            "expense_ratio": 0.98,
+            "as_on_date": "2026-05-27T00:00:00",
+            "frequency": "Daily",
+            "turn_over_ratio": null
+        },
+        {
+            "expense_ratio": 1.21,
+            "as_on_date": "2026-05-26T00:00:00",
+            "frequency": "Daily",
+            "turn_over_ratio": null
+        },
+        {
+            "expense_ratio": 1.06,
+            "as_on_date": "2026-05-25T00:00:00",
+            "frequency": "Daily",
+            "turn_over_ratio": null
+        },
+        {
+            "expense_ratio": 0.99,
+            "as_on_date": "2026-05-24T00:00:00",
+            "frequency": "Daily",
+            "turn_over_ratio": null
+        },
+        {
+            "expense_ratio": 0.99,
+            "as_on_date": "2026-05-23T00:00:00",
+            "frequency": "Daily",
+            "turn_over_ratio": null
+        },
         {
             "expense_ratio": 0.98,
             "as_on_date": "2026-05-22T00:00:00",

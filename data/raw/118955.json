@@ -160,7 +160,7 @@
     "benchmark": "NIFTY 500 TRI",
     "benchmark_name": "NIFTY 500 Total Return Index",
     "aum": 100479.2308,
-    "expense_ratio": "0.72",
+    "expense_ratio": "0.71",
     "portfolio_turnover": 29,
     "super_category": "HDFC Flexi Cap Direct Plan-Growth",
     "sub_sub_category": "",
@@ -183,8 +183,8 @@
             "scheme_code": "118955",
             "analysis_type": "PROS",
             "analysis_subject": "expense_analysis",
-            "analysis_desc": "Lower expense ratio: 0.72%",
-            "analysis_data": "0.72",
+            "analysis_desc": "Lower expense ratio: 0.71%",
+            "analysis_data": "0.71",
             "rating": null
         },
         {
@@ -210,7 +210,7 @@
         "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
         "phone": "022 – 66316333",
         "aum": 937047.5946,
-        "launch_date": "1999-12-09T18:30:00.946Z",
+        "launch_date": "1999-12-09T18:30:00.137Z",
         "email": "shareholders.relations@hdfcfund.com",
         "rank": "2",
         "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -261,7 +261,7 @@
         },
         {
             "type": "RANK_WITHIN_CATEGORY",
-            "stat_1y": 55,
+            "stat_1y": 59,
             "stat_3y": 12,
             "stat_5y": 4,
             "stat_all": null,
@@ -299,12 +299,12 @@
             "cat_return5y": 15.612299390110422,
             "cat_return10y": 13.476536766511122,
             "cat_return_since_launch": null,
-            "rank3m": 111,
-            "rank6m": 87,
-            "rank1yr": 55,
+            "rank3m": 115,
+            "rank6m": 90,
+            "rank1yr": 59,
             "rank3yr": 12,
             "rank5yr": 4,
-            "rank10yr": 3,
+            "rank10yr": 4,
             "index_return1y": -3.6998217604,
             "index_return3y": 16.510310840782,
             "index_return5y": 15.150279137029,
@@ -1736,6 +1736,36 @@
         }
     ],
     "historic_fund_expense": [
+        {
+            "expense_ratio": 0.71,
+            "as_on_date": "2026-05-27T00:00:00",
+            "frequency": "Daily",
+            "turn_over_ratio": null
+        },
+        {
+            "expense_ratio": 0.71,
+            "as_on_date": "2026-05-26T00:00:00",
+            "frequency": "Daily",
+            "turn_over_ratio": null
+        },
+        {
+            "expense_ratio": 0.8,
+            "as_on_date": "2026-05-25T00:00:00",
+            "frequency": "Daily",
+            "turn_over_ratio": null
+        },
+        {
+            "expense_ratio": 0.68,
+            "as_on_date": "2026-05-24T00:00:00",
+            "frequency": "Daily",
+            "turn_over_ratio": null
+        },
+        {
+            "expense_ratio": 0.68,
+            "as_on_date": "2026-05-23T00:00:00",
+            "frequency": "Daily",
+            "turn_over_ratio": null
+        },
         {
             "expense_ratio": 0.72,
             "as_on_date": "2026-05-22T00:00:00",
@@ -8235,7 +8265,7 @@
             "scheme_type": "Growth",
             "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/hsbc_groww.png",
             "groww_scheme_code": "INF336L01DH5",
-            "expense_ratio": "1.11",
+            "expense_ratio": "1.05",
             "swp_frequencies": null,
             "tag": null,
             "sub_tag": null,
@@ -8274,7 +8304,7 @@
             "scheme_type": "Growth",
             "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/jm_groww.png",
             "groww_scheme_code": "INF192K01CC7",
-            "expense_ratio": "2.74",
+            "expense_ratio": "0.65",
             "swp_frequencies": null,
             "tag": null,
             "sub_tag": null,
@@ -8313,7 +8343,7 @@
             "scheme_type": "Growth",
             "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/hdfc_groww.png",
             "groww_scheme_code": "INF179K01UT0",
-            "expense_ratio": "0.72",
+            "expense_ratio": "0.71",
             "swp_frequencies": null,
             "tag": null,
             "sub_tag": null,
@@ -8352,7 +8382,7 @@
             "scheme_type": "Growth",
             "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/ppfas_groww.png",
             "groww_scheme_code": "INF879O01027",
-            "expense_ratio": "0.82",
+            "expense_ratio": "0.64",
             "swp_frequencies": null,
             "tag": null,
             "sub_tag": null,

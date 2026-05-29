@@ -226,7 +226,7 @@
         "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
         "phone": "022 – 66316333",
         "aum": 937047.5946,
-        "launch_date": "1999-12-09T18:30:00.365Z",
+        "launch_date": "1999-12-09T18:30:00.805Z",
         "email": "shareholders.relations@hdfcfund.com",
         "rank": "2",
         "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -278,7 +278,7 @@
         {
             "type": "RANK_WITHIN_CATEGORY",
             "stat_1y": 34,
-            "stat_3y": 11,
+            "stat_3y": 12,
             "stat_5y": 4,
             "stat_all": null,
             "title": "Rank Within Category"
@@ -318,7 +318,7 @@
             "rank3m": 40,
             "rank6m": 39,
             "rank1yr": 34,
-            "rank3yr": 11,
+            "rank3yr": 12,
             "rank5yr": 4,
             "rank10yr": 12,
             "index_return1y": -3.6998217604,
@@ -1584,6 +1584,36 @@
         }
     ],
     "historic_fund_expense": [
+        {
+            "expense_ratio": 1.11,
+            "as_on_date": "2026-05-27T00:00:00",
+            "frequency": "Daily",
+            "turn_over_ratio": null
+        },
+        {
+            "expense_ratio": 1.11,
+            "as_on_date": "2026-05-26T00:00:00",
+            "frequency": "Daily",
+            "turn_over_ratio": null
+        },
+        {
+            "expense_ratio": 1.11,
+            "as_on_date": "2026-05-25T00:00:00",
+            "frequency": "Daily",
+            "turn_over_ratio": null
+        },
+        {
+            "expense_ratio": 1.11,
+            "as_on_date": "2026-05-24T00:00:00",
+            "frequency": "Daily",
+            "turn_over_ratio": null
+        },
+        {
+            "expense_ratio": 1.11,
+            "as_on_date": "2026-05-23T00:00:00",
+            "frequency": "Daily",
+            "turn_over_ratio": null
+        },
         {
             "expense_ratio": 1.11,
             "as_on_date": "2026-05-22T00:00:00",
@@ -8103,7 +8133,7 @@
             "scheme_type": "Growth",
             "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/motilal_groww.png",
             "groww_scheme_code": "INF247L01569",
-            "expense_ratio": "0.91",
+            "expense_ratio": "1.16",
             "swp_frequencies": null,
             "tag": null,
             "sub_tag": null,
@@ -8142,7 +8172,7 @@
             "scheme_type": "Growth",
             "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/sbi_groww.png",
             "groww_scheme_code": "INF200K01UM9",
-            "expense_ratio": "0.93",
+            "expense_ratio": "0.94",
             "swp_frequencies": null,
             "tag": null,
             "sub_tag": null,
