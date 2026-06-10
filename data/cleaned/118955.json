@@ -1,7 +1,7 @@
 {
     "scheme_code": "118955",
     "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-    "last_updated": "08-Jun-2026",
+    "last_updated": "09-Jun-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC Flexi Cap Direct Plan Growth",
@@ -9,8 +9,8 @@
             "Fund Manager": "Prashant Jain",
             "Category": "Equity - Flexi Cap",
             "Benchmark": "NIFTY 500 Total Return Index",
-            "AUM (Assets Under Management)": "₹100479.2308 Crores",
-            "Latest NAV": "₹2103.127 (As of 08-Jun-2026)"
+            "AUM (Assets Under Management)": "₹101821.8244 Crores",
+            "Latest NAV": "₹2120.953 (As of 09-Jun-2026)"
         },
         "Fees and Constraints": {
             "Expense Ratio": "0.68%",
@@ -24,22 +24,22 @@
             "Minimum Lumpsum Investment": "₹100"
         },
         "Return Statistics": {
-            "1Y Return": "-1.83%",
-            "3Y Return": "17.04%",
-            "5Y Return": "17.11%",
+            "1Y Return": "-1.64%",
+            "3Y Return": "17.35%",
+            "5Y Return": "17.39%",
             "All Time Return": "14.13%"
         },
         "Top Holdings": {
-            "ICICI Bank Ltd.": "8.69%",
-            "Axis Bank Ltd.": "6.83%",
-            "HDFC Bank Ltd.": "6.81%",
+            "ICICI Bank Ltd": "8.69%",
+            "Axis Bank Ltd": "6.83%",
+            "HDFC Bank Ltd": "6.81%",
             "State Bank of India": "4.74%",
-            "SBI Life Insurance Company Ltd.": "3.79%",
-            "Kotak Mahindra Bank Ltd.": "3.47%",
-            "Larsen & Toubro Ltd.": "3.35%",
-            "Bharti Airtel Ltd.": "3.1%",
-            "Maruti Suzuki India Ltd.": "2.78%",
-            "Power Grid Corporation Of India Ltd.": "2.78%"
+            "Repo": "4.47%",
+            "SBI Life Insurance Company Ltd": "3.79%",
+            "Kotak Mahindra Bank Ltd": "3.47%",
+            "Larsen & Toubro Ltd": "3.35%",
+            "Bharti Airtel Ltd": "3.1%",
+            "Power Grid Corporation of India Ltd": "2.78%"
         }
     }
 }

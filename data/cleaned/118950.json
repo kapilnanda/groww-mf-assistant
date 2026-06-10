@@ -1,7 +1,7 @@
 {
     "scheme_code": "118950",
     "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-    "last_updated": "08-Jun-2026",
+    "last_updated": "09-Jun-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC Focused Fund Direct Growth",
@@ -9,8 +9,8 @@
             "Fund Manager": "Vinay Kulkarni",
             "Category": "Equity - Flexi Cap",
             "Benchmark": "NIFTY 500 Total Return Index",
-            "AUM (Assets Under Management)": "₹26182.1506 Crores",
-            "Latest NAV": "₹249.297 (As of 08-Jun-2026)"
+            "AUM (Assets Under Management)": "₹26082.4188 Crores",
+            "Latest NAV": "₹251.442 (As of 09-Jun-2026)"
         },
         "Fees and Constraints": {
             "Expense Ratio": "0.72%",
@@ -24,22 +24,22 @@
             "Minimum Lumpsum Investment": "₹100"
         },
         "Return Statistics": {
-            "1Y Return": "-2.89%",
-            "3Y Return": "16.77%",
-            "5Y Return": "18.81%",
+            "1Y Return": "-2.72%",
+            "3Y Return": "17.09%",
+            "5Y Return": "19.2%",
             "All Time Return": "11.42%"
         },
         "Top Holdings": {
-            "ICICI Bank Ltd.": "9.02%",
-            "HDFC Bank Ltd.": "8.41%",
-            "Axis Bank Ltd.": "7.27%",
+            "ICICI Bank Ltd": "9.02%",
+            "HDFC Bank Ltd": "8.41%",
+            "Repo": "7.31%",
+            "Axis Bank Ltd": "7.27%",
             "State Bank of India": "5.76%",
-            "Kotak Mahindra Bank Ltd.": "5.53%",
-            "HCL Technologies Ltd.": "3.89%",
-            "Bharti Airtel Ltd.": "3.69%",
-            "Maruti Suzuki India Ltd.": "3.58%",
-            "SBI Life Insurance Company Ltd.": "3.58%",
-            "Eternal Ltd.": "3.53%"
+            "Kotak Mahindra Bank Ltd": "5.53%",
+            "HCL Technologies Ltd": "3.89%",
+            "Bharti Airtel Ltd": "3.69%",
+            "SBI Life Insurance Company Ltd": "3.58%",
+            "Maruti Suzuki India Ltd": "3.58%"
         }
     }
 }
