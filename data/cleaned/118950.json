@@ -1,7 +1,7 @@
 {
     "scheme_code": "118950",
     "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-    "last_updated": "11-Jun-2026",
+    "last_updated": "12-Jun-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC Focused Fund Direct Growth",
@@ -10,7 +10,7 @@
             "Category": "Equity - Flexi Cap",
             "Benchmark": "NIFTY 500 Total Return Index",
             "AUM (Assets Under Management)": "₹26082.4188 Crores",
-            "Latest NAV": "₹250.695 (As of 11-Jun-2026)"
+            "Latest NAV": "₹255.701 (As of 12-Jun-2026)"
         },
         "Fees and Constraints": {
             "Expense Ratio": "0.78%",
@@ -24,22 +24,22 @@
             "Minimum Lumpsum Investment": "₹100"
         },
         "Return Statistics": {
-            "1Y Return": "-2.96%",
-            "3Y Return": "16.94%",
-            "5Y Return": "18.88%",
+            "1Y Return": "-0.13%",
+            "3Y Return": "17.57%",
+            "5Y Return": "19.34%",
             "All Time Return": "11.42%"
         },
         "Top Holdings": {
-            "ICICI Bank Ltd": "9.02%",
-            "HDFC Bank Ltd": "8.41%",
-            "Repo": "7.31%",
-            "Axis Bank Ltd": "7.27%",
-            "State Bank of India": "5.76%",
-            "Kotak Mahindra Bank Ltd": "5.53%",
-            "HCL Technologies Ltd": "3.89%",
-            "Bharti Airtel Ltd": "3.69%",
-            "SBI Life Insurance Company Ltd": "3.58%",
-            "Maruti Suzuki India Ltd": "3.58%"
+            "ICICI Bank Ltd": "9.01%",
+            "HDFC Bank Ltd": "8.14%",
+            "Repo": "7.6%",
+            "Axis Bank Ltd": "7.4%",
+            "Kotak Mahindra Bank Ltd": "5.56%",
+            "State Bank of India": "5.22%",
+            "HCL Technologies Ltd": "3.86%",
+            "Cipla Ltd": "3.75%",
+            "Maruti Suzuki India Ltd": "3.7%",
+            "Zomato Ltd": "3.67%"
         }
     }
 }
