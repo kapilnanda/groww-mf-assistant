@@ -1,7 +1,7 @@
 {
     "scheme_code": "119060",
     "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-    "last_updated": "01-Jul-2026",
+    "last_updated": "02-Jul-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
@@ -10,10 +10,10 @@
             "Category": "Equity - ELSS",
             "Benchmark": "NIFTY 500 Total Return Index",
             "AUM (Assets Under Management)": "₹15366.4995 Crores",
-            "Latest NAV": "₹1476.745 (As of 01-Jul-2026)"
+            "Latest NAV": "₹1486.467 (As of 02-Jul-2026)"
         },
         "Fees and Constraints": {
-            "Expense Ratio": "1.19%",
+            "Expense Ratio": "1.2%",
             "Exit Load": "Nil",
             "Lock-in Period": {
                 "years": 3,
@@ -24,9 +24,9 @@
             "Minimum Lumpsum Investment": "₹500"
         },
         "Return Statistics": {
-            "1Y Return": "-4.05%",
-            "3Y Return": "15.65%",
-            "5Y Return": "16.77%",
+            "1Y Return": "-3.18%",
+            "3Y Return": "15.89%",
+            "5Y Return": "16.79%",
             "All Time Return": "12.03%"
         },
         "Top Holdings": {
