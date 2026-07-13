@@ -1,7 +1,7 @@
 {
     "scheme_code": "119060",
     "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-    "last_updated": "09-Jul-2026",
+    "last_updated": "10-Jul-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
@@ -10,7 +10,7 @@
             "Category": "Equity - ELSS",
             "Benchmark": "NIFTY 500 Total Return Index",
             "AUM (Assets Under Management)": "₹15685.1652 Crores",
-            "Latest NAV": "₹1478.013 (As of 09-Jul-2026)"
+            "Latest NAV": "₹1493.492 (As of 10-Jul-2026)"
         },
         "Fees and Constraints": {
             "Expense Ratio": "1.2%",
@@ -24,22 +24,22 @@
             "Minimum Lumpsum Investment": "₹500"
         },
         "Return Statistics": {
-            "1Y Return": "-3.93%",
-            "3Y Return": "15.38%",
-            "5Y Return": "16.64%",
+            "1Y Return": "-2.52%",
+            "3Y Return": "15.87%",
+            "5Y Return": "16.88%",
             "All Time Return": "12.03%"
         },
         "Top Holdings": {
-            "ICICI Bank Ltd": "8.99%",
-            "HDFC Bank Ltd": "8.04%",
-            "Axis Bank Ltd": "7.42%",
-            "Maruti Suzuki India Ltd": "4.7%",
-            "Bharti Airtel Ltd": "4.51%",
-            "State Bank of India": "4.39%",
+            "ICICI Bank Ltd": "9.64%",
+            "HDFC Bank Ltd": "8.44%",
+            "Axis Bank Ltd": "7.6%",
+            "Maruti Suzuki India Ltd": "4.95%",
+            "State Bank of India": "4.58%",
+            "Bharti Airtel Ltd": "4.47%",
             "Kotak Mahindra Bank Ltd": "4.38%",
-            "SBI Life Insurance Company Ltd": "3.57%",
-            "Reliance Industries Ltd": "2.86%",
-            "HCL Technologies Ltd": "2.75%"
+            "SBI Life Insurance Company Ltd": "3.36%",
+            "Reliance Industries Ltd": "2.74%",
+            "HCL Technologies Ltd": "2.44%"
         }
     }
 }

@@ -1,7 +1,7 @@
 {
     "scheme_code": "118989",
     "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-    "last_updated": "09-Jul-2026",
+    "last_updated": "10-Jul-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC Mid Cap Fund Direct Growth",
@@ -10,7 +10,7 @@
             "Category": "Equity - Mid Cap",
             "Benchmark": "NIFTY Midcap 150 Total Return Index",
             "AUM (Assets Under Management)": "₹100858.3136 Crores",
-            "Latest NAV": "₹228.93 (As of 09-Jul-2026)"
+            "Latest NAV": "₹231.97 (As of 10-Jul-2026)"
         },
         "Fees and Constraints": {
             "Expense Ratio": "0.75%",
@@ -24,22 +24,22 @@
             "Minimum Lumpsum Investment": "₹100"
         },
         "Return Statistics": {
-            "1Y Return": "5.28%",
-            "3Y Return": "20.48%",
-            "5Y Return": "20.56%",
+            "1Y Return": "7.09%",
+            "3Y Return": "21.25%",
+            "5Y Return": "20.87%",
             "All Time Return": "19.3%"
         },
         "Top Holdings": {
-            "Repo": "7.68%",
-            "Max Financial Services Ltd": "4.49%",
-            "AU Small Finance Bank Ltd": "4.01%",
-            "The Federal Bank Ltd": "3.79%",
-            "Balkrishna Industries Ltd": "3.25%",
-            "Indian Bank": "3.15%",
-            "Glenmark Pharmaceuticals Ltd": "3.13%",
-            "Fortis Healthcare Ltd": "3.09%",
-            "Vishal Mega Mart Ltd.": "2.83%",
-            "Ipca Laboratories Ltd": "2.83%"
+            "Repo": "8.11%",
+            "The Federal Bank Ltd": "4.18%",
+            "Max Financial Services Ltd": "4.1%",
+            "AU Small Finance Bank Ltd": "4.08%",
+            "Balkrishna Industries Ltd": "3.1%",
+            "Fortis Healthcare Ltd": "3.07%",
+            "Ipca Laboratories Ltd": "3.05%",
+            "Indian Bank": "2.98%",
+            "Glenmark Pharmaceuticals Ltd": "2.93%",
+            "Vishal Mega Mart Ltd.": "2.64%"
         }
     }
 }

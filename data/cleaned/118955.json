@@ -1,7 +1,7 @@
 {
     "scheme_code": "118955",
     "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-    "last_updated": "09-Jul-2026",
+    "last_updated": "10-Jul-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC Flexi Cap Direct Plan Growth",
@@ -10,7 +10,7 @@
             "Category": "Equity - Flexi Cap",
             "Benchmark": "NIFTY 500 Total Return Index",
             "AUM (Assets Under Management)": "₹106495.6311 Crores",
-            "Latest NAV": "₹2218.449 (As of 09-Jul-2026)"
+            "Latest NAV": "₹2240.661 (As of 10-Jul-2026)"
         },
         "Fees and Constraints": {
             "Expense Ratio": "0.78%",
@@ -24,22 +24,22 @@
             "Minimum Lumpsum Investment": "₹100"
         },
         "Return Statistics": {
-            "1Y Return": "1.76%",
-            "3Y Return": "17.5%",
-            "5Y Return": "18.69%",
+            "1Y Return": "3.05%",
+            "3Y Return": "18.05%",
+            "5Y Return": "18.91%",
             "All Time Return": "14.13%"
         },
         "Top Holdings": {
-            "ICICI Bank Ltd": "8.83%",
+            "ICICI Bank Ltd": "9.18%",
             "Axis Bank Ltd": "6.84%",
-            "HDFC Bank Ltd": "6.48%",
-            "Repo": "4.56%",
-            "State Bank of India": "4.22%",
-            "SBI Life Insurance Company Ltd": "3.76%",
-            "Larsen & Toubro Ltd": "3.55%",
-            "Kotak Mahindra Bank Ltd": "3.43%",
-            "Bharti Airtel Ltd": "2.96%",
-            "Maruti Suzuki India Ltd": "2.91%"
+            "HDFC Bank Ltd": "6.77%",
+            "State Bank of India": "4.3%",
+            "SBI Life Insurance Company Ltd": "3.47%",
+            "Larsen & Toubro Ltd": "3.45%",
+            "Interglobe Aviation Ltd": "3.26%",
+            "Kotak Mahindra Bank Ltd": "3.26%",
+            "Repo": "3.18%",
+            "Zomato Ltd": "3.05%"
         }
     }
 }
