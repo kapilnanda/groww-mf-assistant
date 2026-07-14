@@ -1,7 +1,7 @@
 {
     "scheme_code": "118955",
     "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-    "last_updated": "10-Jul-2026",
+    "last_updated": "13-Jul-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC Flexi Cap Direct Plan Growth",
@@ -10,10 +10,10 @@
             "Category": "Equity - Flexi Cap",
             "Benchmark": "NIFTY 500 Total Return Index",
             "AUM (Assets Under Management)": "₹106495.6311 Crores",
-            "Latest NAV": "₹2240.661 (As of 10-Jul-2026)"
+            "Latest NAV": "₹2241.197 (As of 13-Jul-2026)"
         },
         "Fees and Constraints": {
-            "Expense Ratio": "0.78%",
+            "Expense Ratio": "0.77%",
             "Exit Load": "Exit load of 1% if redeemed within 1 year\r ",
             "Lock-in Period": {
                 "years": null,
@@ -24,9 +24,9 @@
             "Minimum Lumpsum Investment": "₹100"
         },
         "Return Statistics": {
-            "1Y Return": "3.05%",
-            "3Y Return": "18.05%",
-            "5Y Return": "18.91%",
+            "1Y Return": "3.36%",
+            "3Y Return": "17.89%",
+            "5Y Return": "18.65%",
             "All Time Return": "14.13%"
         },
         "Top Holdings": {
