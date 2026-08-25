@@ -1,7 +1,7 @@
 {
     "scheme_code": "119018",
     "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-    "last_updated": "21-Aug-2026",
+    "last_updated": "24-Aug-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC Large Cap Fund Direct Growth",
@@ -10,10 +10,10 @@
             "Category": "Equity - Large Cap",
             "Benchmark": "NIFTY 100 Total Return Index",
             "AUM (Assets Under Management)": "₹40197.8895 Crores",
-            "Latest NAV": "₹1245.125 (As of 21-Aug-2026)"
+            "Latest NAV": "₹1243.689 (As of 24-Aug-2026)"
         },
         "Fees and Constraints": {
-            "Expense Ratio": "1.03%",
+            "Expense Ratio": "1.02%",
             "Exit Load": "Exit load of 1% if redeemed within 1 year",
             "Lock-in Period": {
                 "years": null,
@@ -24,9 +24,9 @@
             "Minimum Lumpsum Investment": "₹100"
         },
         "Return Statistics": {
-            "1Y Return": "0.59%",
-            "3Y Return": "11.23%",
-            "5Y Return": "13.15%",
+            "1Y Return": "1.09%",
+            "3Y Return": "11.08%",
+            "5Y Return": "12.9%",
             "All Time Return": "13.08%"
         },
         "Top Holdings": {
