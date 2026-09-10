@@ -1,7 +1,7 @@
 {
     "scheme_code": "118989",
     "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-    "last_updated": "08-Sep-2026",
+    "last_updated": "09-Sep-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC Mid Cap Fund Direct Growth",
@@ -9,11 +9,11 @@
             "Fund Manager": "Chirag Setalvad",
             "Category": "Equity - Mid Cap",
             "Benchmark": "NIFTY Midcap 150 Total Return Index",
-            "AUM (Assets Under Management)": "₹105142.6943 Crores",
-            "Latest NAV": "₹233.745 (As of 08-Sep-2026)"
+            "AUM (Assets Under Management)": "₹108324.5467 Crores",
+            "Latest NAV": "₹232.269 (As of 09-Sep-2026)"
         },
         "Fees and Constraints": {
-            "Expense Ratio": "0.74%",
+            "Expense Ratio": "0.75%",
             "Exit Load": "Exit load of 1% if redeemed within 1 year.",
             "Lock-in Period": {
                 "years": null,
@@ -24,9 +24,9 @@
             "Minimum Lumpsum Investment": "₹100"
         },
         "Return Statistics": {
-            "1Y Return": "10.26%",
-            "3Y Return": "17.3%",
-            "5Y Return": "19.5%",
+            "1Y Return": "9.12%",
+            "3Y Return": "17.03%",
+            "5Y Return": "19.25%",
             "All Time Return": "19.3%"
         },
         "Top Holdings": {
