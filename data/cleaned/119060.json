@@ -1,7 +1,7 @@
 {
     "scheme_code": "119060",
     "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-    "last_updated": "10-Sep-2026",
+    "last_updated": "11-Sep-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
@@ -10,7 +10,7 @@
             "Category": "Equity - ELSS",
             "Benchmark": "NIFTY 500 Total Return Index",
             "AUM (Assets Under Management)": "₹15991.7823 Crores",
-            "Latest NAV": "₹1467.431 (As of 10-Sep-2026)"
+            "Latest NAV": "₹1461.656 (As of 11-Sep-2026)"
         },
         "Fees and Constraints": {
             "Expense Ratio": "1.2%",
@@ -24,22 +24,22 @@
             "Minimum Lumpsum Investment": "₹500"
         },
         "Return Statistics": {
-            "1Y Return": "-4.59%",
-            "3Y Return": "12.57%",
-            "5Y Return": "14.11%",
+            "1Y Return": "-5.05%",
+            "3Y Return": "12.21%",
+            "5Y Return": "14.02%",
             "All Time Return": "12.03%"
         },
         "Top Holdings": {
-            "ICICI Bank Ltd": "9.14%",
-            "HDFC Bank Ltd": "7.72%",
-            "Axis Bank Ltd": "6.11%",
-            "Maruti Suzuki India Ltd": "4.86%",
-            "Bharti Airtel Ltd": "4.64%",
-            "State Bank of India": "4.47%",
-            "Kotak Mahindra Bank Ltd": "4.24%",
-            "SBI Life Insurance Company Ltd": "3.49%",
-            "HCL Technologies Ltd": "2.99%",
-            "Hyundai Motor India Ltd.": "2.71%"
+            "ICICI Bank Ltd": "9.32%",
+            "HDFC Bank Ltd": "7.36%",
+            "Axis Bank Ltd": "6.5%",
+            "Maruti Suzuki India Ltd": "4.66%",
+            "State Bank of India": "4.64%",
+            "Kotak Mahindra Bank Ltd": "4.59%",
+            "Bharti Airtel Ltd": "4.29%",
+            "SBI Life Insurance Company Ltd": "3.25%",
+            "HCL Technologies Ltd": "2.93%",
+            "Hyundai Motor India Ltd.": "2.76%"
         }
     }
 }

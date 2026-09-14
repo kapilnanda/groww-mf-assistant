@@ -1,7 +1,7 @@
 {
     "scheme_code": "119018",
     "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-    "last_updated": "10-Sep-2026",
+    "last_updated": "11-Sep-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC Large Cap Fund Direct Growth",
@@ -10,7 +10,7 @@
             "Category": "Equity - Large Cap",
             "Benchmark": "NIFTY 100 Total Return Index",
             "AUM (Assets Under Management)": "₹39933.3663 Crores",
-            "Latest NAV": "₹1210.982 (As of 10-Sep-2026)"
+            "Latest NAV": "₹1208.624 (As of 11-Sep-2026)"
         },
         "Fees and Constraints": {
             "Expense Ratio": "1.03%",
@@ -24,22 +24,22 @@
             "Minimum Lumpsum Investment": "₹100"
         },
         "Return Statistics": {
-            "1Y Return": "-1.59%",
-            "3Y Return": "9%",
-            "5Y Return": "11.33%",
+            "1Y Return": "-1.84%",
+            "3Y Return": "8.69%",
+            "5Y Return": "11.28%",
             "All Time Return": "13.08%"
         },
         "Top Holdings": {
-            "ICICI Bank Ltd": "9.86%",
-            "HDFC Bank Ltd": "7.21%",
-            "Bharti Airtel Ltd": "5.85%",
-            "Kotak Mahindra Bank Ltd": "5.28%",
-            "Titan Company Ltd": "5%",
-            "Reliance Industries Ltd": "4.86%",
-            "Torrent Pharmaceuticals Ltd": "4.05%",
-            "Bajaj Finserv Ltd": "3.32%",
-            "Axis Bank Ltd": "3.28%",
-            "Repo": "3.08%"
+            "ICICI Bank Ltd": "10.05%",
+            "HDFC Bank Ltd": "6.88%",
+            "Bharti Airtel Ltd": "6.23%",
+            "Kotak Mahindra Bank Ltd": "5.71%",
+            "Titan Company Ltd": "5.27%",
+            "Reliance Industries Ltd": "4.78%",
+            "Torrent Pharmaceuticals Ltd": "4.04%",
+            "Axis Bank Ltd": "3.49%",
+            "Bajaj Finserv Ltd": "3.33%",
+            "Bajaj Auto Ltd": "2.93%"
         }
     }
 }

@@ -1,7 +1,7 @@
 {
     "scheme_code": "118955",
     "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-    "last_updated": "10-Sep-2026",
+    "last_updated": "11-Sep-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC Flexi Cap Direct Plan Growth",
@@ -10,7 +10,7 @@
             "Category": "Equity - Flexi Cap",
             "Benchmark": "NIFTY 500 Total Return Index",
             "AUM (Assets Under Management)": "₹113606.46602051 Crores",
-            "Latest NAV": "₹2249.067 (As of 10-Sep-2026)"
+            "Latest NAV": "₹2241.681 (As of 11-Sep-2026)"
         },
         "Fees and Constraints": {
             "Expense Ratio": "0.77%",
@@ -24,22 +24,22 @@
             "Minimum Lumpsum Investment": "₹100"
         },
         "Return Statistics": {
-            "1Y Return": "2.26%",
-            "3Y Return": "15.45%",
-            "5Y Return": "17.56%",
+            "1Y Return": "1.86%",
+            "3Y Return": "15.12%",
+            "5Y Return": "17.47%",
             "All Time Return": "14.13%"
         },
         "Top Holdings": {
-            "ICICI Bank Ltd": "9.20908573%",
-            "HDFC Bank Ltd": "6.10806706%",
-            "Axis Bank Ltd": "6.00729524%",
-            "State Bank of India": "4.13604597%",
-            "SBI Life Insurance Company Ltd": "3.55715029%",
-            "Zomato Ltd": "3.36133385%",
-            "Larsen & Toubro Ltd": "3.15791178%",
-            "Kotak Mahindra Bank Ltd": "3.11743332%",
-            "Repo": "3.09919848%",
-            "Interglobe Aviation Ltd": "3.01832797%"
+            "ICICI Bank Ltd": "9.19386133%",
+            "Axis Bank Ltd": "6.19129075%",
+            "HDFC Bank Ltd": "5.71320661%",
+            "State Bank of India": "4.15948016%",
+            "Zomato Ltd": "3.38619644%",
+            "Kotak Mahindra Bank Ltd": "3.26523502%",
+            "SBI Life Insurance Company Ltd": "3.18851623%",
+            "Larsen & Toubro Ltd": "3.16096895%",
+            "Interglobe Aviation Ltd": "2.97791986%",
+            "Maruti Suzuki India Ltd": "2.73511836%"
         }
     }
 }

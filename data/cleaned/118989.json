@@ -1,7 +1,7 @@
 {
     "scheme_code": "118989",
     "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-    "last_updated": "10-Sep-2026",
+    "last_updated": "11-Sep-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC Mid Cap Fund Direct Growth",
@@ -10,7 +10,7 @@
             "Category": "Equity - Mid Cap",
             "Benchmark": "NIFTY Midcap 150 Total Return Index",
             "AUM (Assets Under Management)": "₹108324.5467 Crores",
-            "Latest NAV": "₹231.64 (As of 10-Sep-2026)"
+            "Latest NAV": "₹230.603 (As of 11-Sep-2026)"
         },
         "Fees and Constraints": {
             "Expense Ratio": "0.75%",
@@ -24,22 +24,22 @@
             "Minimum Lumpsum Investment": "₹100"
         },
         "Return Statistics": {
-            "1Y Return": "7.73%",
-            "3Y Return": "16.91%",
-            "5Y Return": "19.17%",
+            "1Y Return": "7.03%",
+            "3Y Return": "16.42%",
+            "5Y Return": "19.05%",
             "All Time Return": "19.3%"
         },
         "Top Holdings": {
-            "Repo": "6.92%",
-            "The Federal Bank Ltd": "4.36%",
-            "AU Small Finance Bank Ltd": "3.96%",
-            "Max Financial Services Ltd": "3.72%",
-            "Balkrishna Industries Ltd": "3.37%",
-            "Ipca Laboratories Ltd": "3.01%",
-            "Indian Bank": "2.93%",
-            "Fortis Healthcare Ltd": "2.91%",
-            "Glenmark Pharmaceuticals Ltd": "2.85%",
-            "Coforge Ltd": "2.56%"
+            "Repo": "6.91%",
+            "The Federal Bank Ltd": "4.21%",
+            "AU Small Finance Bank Ltd": "3.98%",
+            "Max Financial Services Ltd": "3.79%",
+            "Ipca Laboratories Ltd": "3.3%",
+            "Glenmark Pharmaceuticals Ltd": "3.07%",
+            "Indian Bank": "3.06%",
+            "Balkrishna Industries Ltd": "3.02%",
+            "Coforge Ltd": "2.86%",
+            "Fortis Healthcare Ltd": "2.69%"
         }
     }
 }
