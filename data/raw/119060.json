@@ -135,7 +135,7 @@
     "nfo_risk": "Moderately High",
     "nfo_image_url": null,
     "meta_title": "HDFC ELSS Tax Saver Fund Direct Plan Growth - Groww",
-    "meta_desc": "HDFC ELSS Tax Saver Fund Direct Plan Growth is ELSS Equity mutual fund with risk-reward rating of 5/10. It has track record of 13 years, with three year return of 12.21. Risk is Very High",
+    "meta_desc": "HDFC ELSS Tax Saver Fund Direct Plan Growth is ELSS Equity mutual fund with risk-reward rating of 5/10. It has track record of 13 years, with three year return of 11.4. Risk is Very High",
     "meta_robots": "index",
     "amc": "HDFC",
     "scheme_code": "119060",
@@ -219,7 +219,7 @@
         "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
         "phone": "022 – 66316333",
         "aum": 986236.84494707,
-        "launch_date": "1999-12-09T18:30:00.765Z",
+        "launch_date": "1999-12-09T18:30:00.254Z",
         "email": "shareholders.relations@hdfcfund.com",
         "rank": "2",
         "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -254,9 +254,9 @@
     "stats": [
         {
             "type": "FUND_RETURN",
-            "stat_1y": -5.05,
-            "stat_3y": 12.21,
-            "stat_5y": 14.02,
+            "stat_1y": -6.47,
+            "stat_3y": 11.4,
+            "stat_5y": 13.44,
             "stat_all": 12.03,
             "title": "Fund Returns"
         },
@@ -280,19 +280,19 @@
     "return_stats": [
         {
             "scheme_code": "119060",
-            "return1d": -0.39,
-            "return1w": -2.02,
-            "return1m": -3.78,
-            "return3m": 2.89,
-            "return6m": 0.41,
+            "return1d": -1.29,
+            "return1w": -2.41,
+            "return1m": -4.78,
+            "return3m": -1.15,
+            "return6m": 2.36,
             "return9m": null,
-            "return1y": -5.05,
+            "return1y": -6.47,
             "return2y": null,
-            "return3y": 12.21,
+            "return3y": 11.4,
             "return4y": null,
-            "return5y": 14.02,
+            "return5y": 13.44,
             "return7y": null,
-            "return10y": 12.9,
+            "return10y": 12.93,
             "return_default": 12.03,
             "mean_return": 6.89,
             "sharpe_ratio": 0.6818356559,
@@ -300,7 +300,7 @@
             "standard_deviation": 13.51014337464743,
             "risk_rating": 6,
             "risk": "Very High",
-            "return_since_created": 13.8756758464,
+            "return_since_created": 13.7559449256,
             "cat_return3m": 2.7610679216358975,
             "cat_return6m": -0.5495507445794872,
             "cat_return1y": 2.4219756725166213,
@@ -308,8 +308,8 @@
             "cat_return5y": 16.480243926416804,
             "cat_return10y": 14.011062151166307,
             "cat_return_since_launch": null,
-            "rank3m": 30,
-            "rank6m": 36,
+            "rank3m": 25,
+            "rank6m": 33,
             "rank1yr": 35,
             "rank3yr": 13,
             "rank5yr": 5,
@@ -1252,8 +1252,8 @@
             "stock_search_id": null
         }
     ],
-    "nav": 1461.656,
-    "nav_date": "11-Sep-2026",
+    "nav": 1442.776,
+    "nav_date": "15-Sep-2026",
     "plan_type": "Direct",
     "scheme_type": "Growth",
     "alternate_scheme_type": null,
@@ -1498,11 +1498,6 @@
                     "scheme_name": "HDFC Innovation Fund Direct Growth",
                     "scheme_code": "153620",
                     "search_id": "hdfc-innovation-fund-direct-growth"
-                },
-                {
-                    "scheme_name": "HDFC Diversified Equity All Cap Active FoF Direct Growth",
-                    "scheme_code": "153860",
-                    "search_id": "hdfc-diversified-equity-all-cap-active-fof-direct-growth"
                 }
             ]
         }
