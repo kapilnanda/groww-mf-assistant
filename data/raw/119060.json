@@ -135,7 +135,7 @@
     "nfo_risk": "Moderately High",
     "nfo_image_url": null,
     "meta_title": "HDFC ELSS Tax Saver Fund Direct Plan Growth - Groww",
-    "meta_desc": "HDFC ELSS Tax Saver Fund Direct Plan Growth is ELSS Equity mutual fund with risk-reward rating of 5/10. It has track record of 13 years, with three year return of 11.64. Risk is Very High",
+    "meta_desc": "HDFC ELSS Tax Saver Fund Direct Plan Growth is ELSS Equity mutual fund with risk-reward rating of 5/10. It has track record of 13 years, with three year return of 11.78. Risk is Very High",
     "meta_robots": "index",
     "amc": "HDFC",
     "scheme_code": "119060",
@@ -219,7 +219,7 @@
         "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
         "phone": "022 – 66316333",
         "aum": 986236.84494707,
-        "launch_date": "1999-12-09T18:30:00.087Z",
+        "launch_date": "1999-12-09T18:30:00.243Z",
         "email": "shareholders.relations@hdfcfund.com",
         "rank": "2",
         "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -254,9 +254,9 @@
     "stats": [
         {
             "type": "FUND_RETURN",
-            "stat_1y": -6.71,
-            "stat_3y": 11.64,
-            "stat_5y": 13.48,
+            "stat_1y": -6.6,
+            "stat_3y": 11.78,
+            "stat_5y": 13.71,
             "stat_all": 12.03,
             "title": "Fund Returns"
         },
@@ -271,7 +271,7 @@
         {
             "type": "RANK_WITHIN_CATEGORY",
             "stat_1y": 33,
-            "stat_3y": 13,
+            "stat_3y": 12,
             "stat_5y": 5,
             "stat_all": null,
             "title": "Rank Within Category"
@@ -280,19 +280,19 @@
     "return_stats": [
         {
             "scheme_code": "119060",
-            "return1d": 0.66,
-            "return1w": -0.96,
-            "return1m": -4.15,
-            "return3m": -0.77,
-            "return6m": 2.25,
+            "return1d": 0.43,
+            "return1w": -0.61,
+            "return1m": -3.55,
+            "return3m": -0.68,
+            "return6m": 1.83,
             "return9m": null,
-            "return1y": -6.71,
+            "return1y": -6.6,
             "return2y": null,
-            "return3y": 11.64,
+            "return3y": 11.78,
             "return4y": null,
-            "return5y": 13.48,
+            "return5y": 13.71,
             "return7y": null,
-            "return10y": 12.98,
+            "return10y": 13.02,
             "return_default": 12.03,
             "mean_return": 6.89,
             "sharpe_ratio": 0.6818356559,
@@ -300,7 +300,7 @@
             "standard_deviation": 13.51014337464743,
             "risk_rating": 6,
             "risk": "Very High",
-            "return_since_created": 13.8074909655,
+            "return_since_created": 13.8397791406,
             "cat_return3m": 2.7610679216358975,
             "cat_return6m": -0.5495507445794872,
             "cat_return1y": 2.4219756725166213,
@@ -311,7 +311,7 @@
             "rank3m": 21,
             "rank6m": 33,
             "rank1yr": 33,
-            "rank3yr": 13,
+            "rank3yr": 12,
             "rank5yr": 5,
             "rank10yr": 17,
             "rank_count3m": null,
@@ -1252,8 +1252,8 @@
             "stock_search_id": null
         }
     ],
-    "nav": 1452.281,
-    "nav_date": "16-Sep-2026",
+    "nav": 1458.46,
+    "nav_date": "17-Sep-2026",
     "plan_type": "Direct",
     "scheme_type": "Growth",
     "alternate_scheme_type": null,
@@ -1649,6 +1649,13 @@
         }
     ],
     "historic_fund_expense": [
+        {
+            "expense_ratio": 1.21,
+            "base_expense_ratio": 0.97,
+            "as_on_date": "2026-09-16T00:00:00",
+            "frequency": null,
+            "turn_over_ratio": null
+        },
         {
             "expense_ratio": 1.21,
             "base_expense_ratio": 0.97,
