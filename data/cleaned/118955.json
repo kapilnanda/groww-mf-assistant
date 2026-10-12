@@ -1,7 +1,7 @@
 {
     "scheme_code": "118955",
     "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-    "last_updated": "08-Oct-2026",
+    "last_updated": "09-Oct-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC Flexi Cap Direct Plan Growth",
@@ -9,11 +9,11 @@
             "Fund Manager": "Prashant Jain",
             "Category": "Equity - Flexi Cap",
             "Benchmark": "NIFTY 500 Total Return Index",
-            "AUM (Assets Under Management)": "₹113606.46602051 Crores",
-            "Latest NAV": "₹2128.253 (As of 08-Oct-2026)"
+            "AUM (Assets Under Management)": "₹108546.9792 Crores",
+            "Latest NAV": "₹2152.467 (As of 09-Oct-2026)"
         },
         "Fees and Constraints": {
-            "Expense Ratio": "0.77%",
+            "Expense Ratio": "0.75%",
             "Exit Load": "Exit load of 1% if redeemed within 1 year\r ",
             "Lock-in Period": {
                 "years": null,
@@ -24,22 +24,22 @@
             "Minimum Lumpsum Investment": "₹100"
         },
         "Return Statistics": {
-            "1Y Return": "-4.25%",
-            "3Y Return": "13.97%",
-            "5Y Return": "14.93%",
+            "1Y Return": "-3.52%",
+            "3Y Return": "14.68%",
+            "5Y Return": "15.18%",
             "All Time Return": "14.13%"
         },
         "Top Holdings": {
-            "ICICI Bank Ltd": "9.19386133%",
-            "Axis Bank Ltd": "6.19129075%",
-            "HDFC Bank Ltd": "5.71320661%",
-            "State Bank of India": "4.15948016%",
-            "Zomato Ltd": "3.38619644%",
-            "Kotak Mahindra Bank Ltd": "3.26523502%",
-            "SBI Life Insurance Company Ltd": "3.18851623%",
-            "Larsen & Toubro Ltd": "3.16096895%",
-            "Interglobe Aviation Ltd": "2.97791986%",
-            "Maruti Suzuki India Ltd": "2.73511836%"
+            "ICICI Bank Ltd": "8.8%",
+            "Axis Bank Ltd": "6.11%",
+            "HDFC Bank Ltd": "6.03%",
+            "State Bank of India": "3.94%",
+            "Zomato Ltd": "3.46%",
+            "Kotak Mahindra Bank Ltd": "3.4%",
+            "SBI Life Insurance Company Ltd": "3.25%",
+            "Larsen & Toubro Ltd": "3.08%",
+            "Interglobe Aviation Ltd": "2.99%",
+            "Repo": "2.81%"
         }
     }
 }

@@ -1,7 +1,7 @@
 {
     "scheme_code": "118989",
     "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-    "last_updated": "08-Oct-2026",
+    "last_updated": "09-Oct-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC Mid Cap Fund Direct Growth",
@@ -9,11 +9,11 @@
             "Fund Manager": "Chirag Setalvad",
             "Category": "Equity - Mid Cap",
             "Benchmark": "NIFTY Midcap 150 Total Return Index",
-            "AUM (Assets Under Management)": "₹108324.5467 Crores",
-            "Latest NAV": "₹217.078 (As of 08-Oct-2026)"
+            "AUM (Assets Under Management)": "₹101856.0604 Crores",
+            "Latest NAV": "₹219.816 (As of 09-Oct-2026)"
         },
         "Fees and Constraints": {
-            "Expense Ratio": "0.76%",
+            "Expense Ratio": "0.75%",
             "Exit Load": "Exit load of 1% if redeemed within 1 year.",
             "Lock-in Period": {
                 "years": null,
@@ -24,22 +24,22 @@
             "Minimum Lumpsum Investment": "₹100"
         },
         "Return Statistics": {
-            "1Y Return": "0.69%",
-            "3Y Return": "14.85%",
-            "5Y Return": "16.62%",
+            "1Y Return": "1.51%",
+            "3Y Return": "15.87%",
+            "5Y Return": "16.9%",
             "All Time Return": "19.3%"
         },
         "Top Holdings": {
-            "Repo": "6.91%",
-            "The Federal Bank Ltd": "4.21%",
-            "AU Small Finance Bank Ltd": "3.98%",
-            "Max Financial Services Ltd": "3.79%",
-            "Ipca Laboratories Ltd": "3.3%",
+            "Repo": "8.37%",
+            "The Federal Bank Ltd": "3.98%",
+            "AU Small Finance Bank Ltd": "3.94%",
+            "Max Financial Services Ltd": "3.52%",
+            "Ipca Laboratories Ltd": "3.43%",
             "Glenmark Pharmaceuticals Ltd": "3.07%",
-            "Indian Bank": "3.06%",
-            "Balkrishna Industries Ltd": "3.02%",
-            "Coforge Ltd": "2.86%",
-            "Fortis Healthcare Ltd": "2.69%"
+            "Balkrishna Industries Ltd": "2.98%",
+            "Indian Bank": "2.92%",
+            "Coforge Ltd": "2.68%",
+            "Fortis Healthcare Ltd": "2.4%"
         }
     }
 }

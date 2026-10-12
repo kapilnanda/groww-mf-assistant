@@ -1,7 +1,7 @@
 {
     "scheme_code": "119060",
     "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-    "last_updated": "08-Oct-2026",
+    "last_updated": "09-Oct-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
@@ -9,11 +9,11 @@
             "Fund Manager": "Vinay Kulkarni",
             "Category": "Equity - ELSS",
             "Benchmark": "NIFTY 500 Total Return Index",
-            "AUM (Assets Under Management)": "₹15991.7823 Crores",
-            "Latest NAV": "₹1392.881 (As of 08-Oct-2026)"
+            "AUM (Assets Under Management)": "₹14948.7374 Crores",
+            "Latest NAV": "₹1410.196 (As of 09-Oct-2026)"
         },
         "Fees and Constraints": {
-            "Expense Ratio": "1.21%",
+            "Expense Ratio": "1.2%",
             "Exit Load": "Nil",
             "Lock-in Period": {
                 "years": 3,
@@ -24,22 +24,22 @@
             "Minimum Lumpsum Investment": "₹500"
         },
         "Return Statistics": {
-            "1Y Return": "-9.89%",
-            "3Y Return": "11.1%",
-            "5Y Return": "12.14%",
+            "1Y Return": "-9.06%",
+            "3Y Return": "11.81%",
+            "5Y Return": "12.41%",
             "All Time Return": "12.03%"
         },
         "Top Holdings": {
-            "ICICI Bank Ltd": "9.32%",
-            "HDFC Bank Ltd": "7.36%",
-            "Axis Bank Ltd": "6.5%",
-            "Maruti Suzuki India Ltd": "4.66%",
-            "State Bank of India": "4.64%",
-            "Kotak Mahindra Bank Ltd": "4.59%",
-            "Bharti Airtel Ltd": "4.29%",
-            "SBI Life Insurance Company Ltd": "3.25%",
-            "HCL Technologies Ltd": "2.93%",
-            "Hyundai Motor India Ltd.": "2.76%"
+            "ICICI Bank Ltd": "9.06%",
+            "HDFC Bank Ltd": "7.87%",
+            "Axis Bank Ltd": "6.56%",
+            "Kotak Mahindra Bank Ltd": "4.88%",
+            "State Bank of India": "4.49%",
+            "Bharti Airtel Ltd": "4.45%",
+            "Maruti Suzuki India Ltd": "4.4%",
+            "SBI Life Insurance Company Ltd": "3.21%",
+            "HCL Technologies Ltd": "2.94%",
+            "Hyundai Motor India Ltd.": "2.72%"
         }
     }
 }

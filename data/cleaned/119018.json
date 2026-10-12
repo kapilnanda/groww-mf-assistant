@@ -1,7 +1,7 @@
 {
     "scheme_code": "119018",
     "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-    "last_updated": "08-Oct-2026",
+    "last_updated": "09-Oct-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC Large Cap Fund Direct Growth",
@@ -9,8 +9,8 @@
             "Fund Manager": "Prashant Jain",
             "Category": "Equity - Large Cap",
             "Benchmark": "NIFTY 100 Total Return Index",
-            "AUM (Assets Under Management)": "₹39933.3663 Crores",
-            "Latest NAV": "₹1140.674 (As of 08-Oct-2026)"
+            "AUM (Assets Under Management)": "₹37293.9508 Crores",
+            "Latest NAV": "₹1152.946 (As of 09-Oct-2026)"
         },
         "Fees and Constraints": {
             "Expense Ratio": "1.04%",
@@ -24,22 +24,22 @@
             "Minimum Lumpsum Investment": "₹100"
         },
         "Return Statistics": {
-            "1Y Return": "-7.54%",
-            "3Y Return": "7.16%",
-            "5Y Return": "8.91%",
+            "1Y Return": "-6.83%",
+            "3Y Return": "7.8%",
+            "5Y Return": "9.13%",
             "All Time Return": "13.08%"
         },
         "Top Holdings": {
-            "ICICI Bank Ltd": "10.05%",
-            "HDFC Bank Ltd": "6.88%",
-            "Bharti Airtel Ltd": "6.23%",
-            "Kotak Mahindra Bank Ltd": "5.71%",
-            "Titan Company Ltd": "5.27%",
-            "Reliance Industries Ltd": "4.78%",
-            "Torrent Pharmaceuticals Ltd": "4.04%",
-            "Axis Bank Ltd": "3.49%",
-            "Bajaj Finserv Ltd": "3.33%",
-            "Bajaj Auto Ltd": "2.93%"
+            "ICICI Bank Ltd": "9.79%",
+            "HDFC Bank Ltd": "7.36%",
+            "Bharti Airtel Ltd": "6.46%",
+            "Kotak Mahindra Bank Ltd": "6.08%",
+            "Titan Company Ltd": "5.07%",
+            "Reliance Industries Ltd": "4.76%",
+            "Torrent Pharmaceuticals Ltd": "4.09%",
+            "Axis Bank Ltd": "3.52%",
+            "Bajaj Finserv Ltd": "3.05%",
+            "Bajaj Auto Ltd": "2.81%"
         }
     }
 }
