@@ -1,7 +1,7 @@
 {
     "scheme_code": "118950",
     "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-    "last_updated": "15-Oct-2026",
+    "last_updated": "16-Oct-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC Focused Fund Direct Growth",
@@ -10,10 +10,10 @@
             "Category": "Equity - Flexi Cap",
             "Benchmark": "NIFTY 500 Total Return Index",
             "AUM (Assets Under Management)": "₹26552.9174 Crores",
-            "Latest NAV": "₹260.201 (As of 15-Oct-2026)"
+            "Latest NAV": "₹261.243 (As of 16-Oct-2026)"
         },
         "Fees and Constraints": {
-            "Expense Ratio": "0.82%",
+            "Expense Ratio": "0.83%",
             "Exit Load": "Exit load of 1% if redeemed within 1 year",
             "Lock-in Period": {
                 "years": null,
@@ -24,9 +24,9 @@
             "Minimum Lumpsum Investment": "₹100"
         },
         "Return Statistics": {
-            "1Y Return": "-3.2%",
-            "3Y Return": "14.81%",
-            "5Y Return": "15.7%",
+            "1Y Return": "-3.75%",
+            "3Y Return": "14.91%",
+            "5Y Return": "15.78%",
             "All Time Return": "11.42%"
         },
         "Top Holdings": {
