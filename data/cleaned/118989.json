@@ -1,7 +1,7 @@
 {
     "scheme_code": "118989",
     "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-    "last_updated": "09-Nov-2026",
+    "last_updated": "11-Nov-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC Mid Cap Fund Direct Growth",
@@ -9,8 +9,8 @@
             "Fund Manager": "Chirag Setalvad",
             "Category": "Equity - Mid Cap",
             "Benchmark": "NIFTY Midcap 150 Total Return Index",
-            "AUM (Assets Under Management)": "₹101856.06 Crores",
-            "Latest NAV": "₹227.102 (As of 09-Nov-2026)"
+            "AUM (Assets Under Management)": "₹100687.07 Crores",
+            "Latest NAV": "₹229.552 (As of 11-Nov-2026)"
         },
         "Fees and Constraints": {
             "Expense Ratio": "0.74%",
@@ -24,22 +24,22 @@
             "Minimum Lumpsum Investment": "₹100"
         },
         "Return Statistics": {
-            "1Y Return": "2.48%",
-            "3Y Return": "16.04%",
-            "5Y Return": "17.25%",
+            "1Y Return": "3.12%",
+            "3Y Return": "16.27%",
+            "5Y Return": "17.65%",
             "All Time Return": "19.3%"
         },
         "Top Holdings": {
-            "Repo": "8.37%",
-            "The Federal Bank Ltd": "3.98%",
-            "AU Small Finance Bank Ltd": "3.94%",
-            "Max Financial Services Ltd": "3.52%",
-            "Ipca Laboratories Ltd": "3.43%",
-            "Glenmark Pharmaceuticals Ltd": "3.07%",
-            "Balkrishna Industries Ltd": "2.98%",
-            "Indian Bank": "2.92%",
-            "Coforge Ltd": "2.68%",
-            "Fortis Healthcare Ltd": "2.4%"
+            "Repo": "7.02%",
+            "The Federal Bank Ltd": "4.31%",
+            "Ipca Laboratories Ltd": "3.47%",
+            "AU Small Finance Bank Ltd": "3.47%",
+            "Indian Bank": "3.17%",
+            "Coforge Ltd": "3.17%",
+            "Max Financial Services Ltd": "3.11%",
+            "Glenmark Pharmaceuticals Ltd": "3.06%",
+            "Balkrishna Industries Ltd": "2.95%",
+            "Marico Ltd": "2.54%"
         }
     }
 }

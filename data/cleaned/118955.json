@@ -1,7 +1,7 @@
 {
     "scheme_code": "118955",
     "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-    "last_updated": "09-Nov-2026",
+    "last_updated": "11-Nov-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC Flexi Cap Direct Plan Growth",
@@ -9,8 +9,8 @@
             "Fund Manager": "Prashant Jain",
             "Category": "Equity - Flexi Cap",
             "Benchmark": "NIFTY 500 Total Return Index",
-            "AUM (Assets Under Management)": "₹108546.98 Crores",
-            "Latest NAV": "₹2345.835 (As of 09-Nov-2026)"
+            "AUM (Assets Under Management)": "₹110441.27 Crores",
+            "Latest NAV": "₹2363.402 (As of 11-Nov-2026)"
         },
         "Fees and Constraints": {
             "Expense Ratio": "0.74%",
@@ -24,22 +24,22 @@
             "Minimum Lumpsum Investment": "₹100"
         },
         "Return Statistics": {
-            "1Y Return": "4.45%",
-            "3Y Return": "17.51%",
-            "5Y Return": "16.4%",
+            "1Y Return": "4.71%",
+            "3Y Return": "17.68%",
+            "5Y Return": "16.81%",
             "All Time Return": "14.13%"
         },
         "Top Holdings": {
-            "ICICI Bank Ltd": "8.8%",
-            "Axis Bank Ltd": "6.11%",
-            "HDFC Bank Ltd": "6.03%",
-            "State Bank of India": "3.94%",
-            "Zomato Ltd": "3.46%",
-            "Kotak Mahindra Bank Ltd": "3.4%",
-            "SBI Life Insurance Company Ltd": "3.25%",
-            "Larsen & Toubro Ltd": "3.08%",
-            "Interglobe Aviation Ltd": "2.99%",
-            "Repo": "2.81%"
+            "ICICI Bank Ltd": "9.28%",
+            "HDFC Bank Ltd": "5.79%",
+            "Axis Bank Ltd": "5.55%",
+            "State Bank of India": "3.88%",
+            "Zomato Ltd": "3.76%",
+            "Kotak Mahindra Bank Ltd": "3.75%",
+            "SBI Life Insurance Company Ltd": "3.13%",
+            "Larsen & Toubro Ltd": "3.11%",
+            "Bharti Airtel Ltd": "3.07%",
+            "Interglobe Aviation Ltd": "2.88%"
         }
     }
 }

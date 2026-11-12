@@ -1,7 +1,7 @@
 {
     "scheme_code": "119018",
     "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-    "last_updated": "09-Nov-2026",
+    "last_updated": "11-Nov-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC Large Cap Fund Direct Growth",
@@ -9,8 +9,8 @@
             "Fund Manager": "Prashant Jain",
             "Category": "Equity - Large Cap",
             "Benchmark": "NIFTY 100 Total Return Index",
-            "AUM (Assets Under Management)": "₹37293.95 Crores",
-            "Latest NAV": "₹1260.671 (As of 09-Nov-2026)"
+            "AUM (Assets Under Management)": "₹37466.3 Crores",
+            "Latest NAV": "₹1269.861 (As of 11-Nov-2026)"
         },
         "Fees and Constraints": {
             "Expense Ratio": "1.0%",
@@ -24,22 +24,22 @@
             "Minimum Lumpsum Investment": "₹100"
         },
         "Return Statistics": {
-            "1Y Return": "1.19%",
-            "3Y Return": "10.75%",
-            "5Y Return": "10.72%",
+            "1Y Return": "1.09%",
+            "3Y Return": "10.89%",
+            "5Y Return": "11.08%",
             "All Time Return": "13.08%"
         },
         "Top Holdings": {
-            "ICICI Bank Ltd": "9.79%",
-            "HDFC Bank Ltd": "7.36%",
-            "Bharti Airtel Ltd": "6.46%",
-            "Kotak Mahindra Bank Ltd": "6.08%",
-            "Titan Company Ltd": "5.07%",
-            "Reliance Industries Ltd": "4.76%",
-            "Torrent Pharmaceuticals Ltd": "4.09%",
-            "Axis Bank Ltd": "3.52%",
-            "Bajaj Finserv Ltd": "3.05%",
-            "Bajaj Auto Ltd": "2.81%"
+            "ICICI Bank Ltd": "10.3%",
+            "Bharti Airtel Ltd": "7.23%",
+            "HDFC Bank Ltd": "7.17%",
+            "Kotak Mahindra Bank Ltd": "6.7%",
+            "Titan Company Ltd": "4.88%",
+            "Torrent Pharmaceuticals Ltd": "3.92%",
+            "Axis Bank Ltd": "3.48%",
+            "Repo": "3.48%",
+            "Reliance Industries Ltd": "3.12%",
+            "Bajaj Finserv Ltd": "2.93%"
         }
     }
 }
