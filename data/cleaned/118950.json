@@ -1,7 +1,7 @@
 {
     "scheme_code": "118950",
     "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-    "last_updated": "12-Nov-2026",
+    "last_updated": "13-Nov-2026",
     "sections": {
         "Core Details": {
             "Fund Name": "HDFC Focused Fund Direct Growth",
@@ -10,10 +10,10 @@
             "Category": "Equity - Focused",
             "Benchmark": "NIFTY 500 Total Return Index",
             "AUM (Assets Under Management)": "₹26955.9 Crores",
-            "Latest NAV": "₹282.23 (As of 12-Nov-2026)"
+            "Latest NAV": "₹281.374 (As of 13-Nov-2026)"
         },
         "Fees and Constraints": {
-            "Expense Ratio": "0.83%",
+            "Expense Ratio": "0.82%",
             "Exit Load": "Exit load of 1% if redeemed within 1 year",
             "Lock-in Period": {
                 "years": null,
@@ -24,22 +24,22 @@
             "Minimum Lumpsum Investment": "₹100"
         },
         "Return Statistics": {
-            "1Y Return": "4.29%",
-            "3Y Return": "17.52%",
-            "5Y Return": "17.26%",
+            "1Y Return": "3.8%",
+            "3Y Return": "17.49%",
+            "5Y Return": "17.18%",
             "All Time Return": "11.42%"
         },
         "Top Holdings": {
-            "ICICI Bank Ltd": "9.16%",
-            "HDFC Bank Ltd": "7.83%",
-            "Kotak Mahindra Bank Ltd": "6.91%",
-            "Axis Bank Ltd": "6.24%",
-            "State Bank of India": "5.1%",
-            "Zomato Ltd": "4.87%",
-            "Sun Pharmaceutical Industries Ltd": "4.07%",
-            "Interglobe Aviation Ltd": "4%",
-            "HCL Technologies Ltd": "3.54%",
-            "Maruti Suzuki India Ltd": "3.4%"
+            "ICICI Bank Ltd": "9.54%",
+            "HDFC Bank Ltd": "8.42%",
+            "Kotak Mahindra Bank Ltd": "7.62%",
+            "Zomato Ltd": "5.49%",
+            "Axis Bank Ltd": "5.24%",
+            "State Bank of India": "5.04%",
+            "Repo": "4.85%",
+            "Sun Pharmaceutical Industries Ltd": "3.98%",
+            "Interglobe Aviation Ltd": "3.86%",
+            "Bharti Airtel Ltd": "3.6%"
         }
     }
 }
